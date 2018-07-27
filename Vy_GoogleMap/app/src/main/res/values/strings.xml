@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Duc\'s Map :D &lt;---- change me!</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Drawer -->
+    <string name="ic_parking">Search nearby Parking</string>
+    <string name="ic_image_search">Search using Image</string>
+
+</resources>
